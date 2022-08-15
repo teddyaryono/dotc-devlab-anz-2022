@@ -25,7 +25,7 @@ Each lab takes approximately 30-45 minutes.
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline.
 
-<a href="https://github.com/teddyaryono/devlab-s3-codepipeline/blob/main/README.md">
+<a href="https://bit.ly/3bSoytK">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
@@ -39,7 +39,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 
 In this lab we will learn how to build a containerized web application, publish the container image to Amazon Elastic Container Registry, and use AWS App Runner to pull the image from the registry to host the application on AWS Cloud.
 
-<a href="https://github.com/teddyaryono/cdk-apprunner-ecr/blob/main/README.md">
+<a href="https://bit.ly/3w0YxiD">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
@@ -53,7 +53,7 @@ In this lab we will learn how to build a containerized web application, publish 
 
 Creating a React App hosted on Amplify that takes advantage of the seamless integration with Material UI to quickly build UI components. The workshop covers creation of components like tables, buttons etc. as well as style modules to manipulate the look of the UI features.
 
-<a href="https://github.com/teddyaryono/aws-amplify-react-101/blob/main/README.md">
+<a href="https://bit.ly/3zYVSr9">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
@@ -67,7 +67,7 @@ Creating a React App hosted on Amplify that takes advantage of the seamless inte
 
 In this lab we will run chaos engineering experiments by injecting faults into Amazon ECS. We will observe how these experiments helps us to observe the resiliency of the application.
 
-<a href="https://github.com/teddyaryono/aws-anz-devlabs-ecs-fis/blob/main/README.md">
+<a href="https://bit.ly/3AmV94p">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
@@ -81,7 +81,7 @@ In this lab we will run chaos engineering experiments by injecting faults into A
 
 The lab showcases Amazon Elasticache through a demo App that can be deployed using CDK.
 
-<a href="https://github.com/teddyaryono/amazon-elasticache-demo-using-aws-cdk/blob/main/README.md">
+<a href="https://bit.ly/3PjgJek">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
@@ -95,7 +95,7 @@ The lab showcases Amazon Elasticache through a demo App that can be deployed usi
 
 Learn how to become a super efficient user of the aws cli
 
-<a href="https://github.com/teddyaryono/serverless-app-demo-using-aws-cdk-dotnet/blob/main/README.md">
+<a href="https://bit.ly/3C4Vw4Q">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">

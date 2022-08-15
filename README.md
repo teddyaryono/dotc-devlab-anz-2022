@@ -31,7 +31,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/ULTHJI6" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
@@ -45,7 +45,7 @@ In this lab we will learn how to build a containerized web application, publish 
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/420LSDC" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
@@ -59,7 +59,7 @@ Creating a React App hosted on Amplify that takes advantage of the seamless inte
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/4OAM19Y" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
@@ -73,7 +73,7 @@ In this lab we will run chaos engineering experiments by injecting faults into A
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/BIQQ7C6" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
@@ -87,7 +87,7 @@ The lab showcases Amazon Elasticache through a demo App that can be deployed usi
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/ARV7KI6" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
@@ -101,7 +101,7 @@ Learn how to become a super efficient user of the aws cli
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/C5027QE" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 ## Thanks for completing a lab, hope you had fun!
 

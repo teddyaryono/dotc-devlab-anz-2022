@@ -35,21 +35,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 
 
 
-### **2) Bring your containerized web application online with Docker, AWS App Runner and Amazon Elastic Container Registry**
-
-In this lab we will learn how to build a containerized web application, publish the container image to Amazon Elastic Container Registry, and use AWS App Runner to pull the image from the registry to host the application on AWS Cloud.
-
-<a href="https://bit.ly/3w0YxiD">
-<img src="./media/labButton.png" width="20%">
-</a>
-<a href="https://console.aws.amazon.com/console/home">
-<img src="./media/consoleButton.png" width="20%">
-</a>
-<a href="https://eventbox.dev/survey/420LSDC" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
-
-
-
-### **3) AWS Amplify React 101**
+### **2) AWS Amplify React 101**
 
 Creating a React App hosted on Amplify that takes advantage of the seamless integration with Material UI to quickly build UI components. The workshop covers creation of components like tables, buttons etc. as well as style modules to manipulate the look of the UI features.
 
@@ -63,35 +49,7 @@ Creating a React App hosted on Amplify that takes advantage of the seamless inte
 
 
 
-### **4) Run Chaos Engineering experiments on Amazon Elastic Container Service with AWS Fault Injection Simulator**
-
-In this lab we will run chaos engineering experiments by injecting faults into Amazon ECS. We will observe how these experiments helps us to observe the resiliency of the application.
-
-<a href="https://bit.ly/3AmV94p">
-<img src="./media/labButton.png" width="20%">
-</a>
-<a href="https://console.aws.amazon.com/console/home">
-<img src="./media/consoleButton.png" width="20%">
-</a>
-<a href="https://eventbox.dev/survey/BIQQ7C6" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
-
-
-
-### **5) Quickly accelerate application performance using Amazon ElastiCache for Redis with AWS CDK**
-
-The lab showcases Amazon Elasticache through a demo App that can be deployed using CDK.
-
-<a href="https://bit.ly/3PjgJek">
-<img src="./media/labButton.png" width="20%">
-</a>
-<a href="https://console.aws.amazon.com/console/home">
-<img src="./media/consoleButton.png" width="20%">
-</a>
-<a href="https://eventbox.dev/survey/ARV7KI6" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
-
-
-
-### **6) Build a serverless application using AWS CDK for .NET**
+### **3) Build a serverless application using AWS CDK for .NET**
 
 Learn how to become a super efficient user of the aws cli
 

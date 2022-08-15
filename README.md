@@ -25,83 +25,83 @@ Each lab takes approximately 30-45 minutes.
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline.
 
-<a href="https://bit.ly/3LmkZrB">
+<a href="https://github.com/teddyaryono/devlab-s3-codepipeline/blob/main/README.md">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/0GYX1KB" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
-### **4) Bring your containerized web application online with Docker, AWS App Runner and Amazon Elastic Container Registry**
+### **2) Bring your containerized web application online with Docker, AWS App Runner and Amazon Elastic Container Registry**
 
 In this lab we will learn how to build a containerized web application, publish the container image to Amazon Elastic Container Registry, and use AWS App Runner to pull the image from the registry to host the application on AWS Cloud.
 
-<a href="https://bit.ly/3PamrjP">
+<a href="https://github.com/teddyaryono/cdk-apprunner-ecr/blob/main/README.md">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/GTQO106" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
-### **6) AWS Amplify React 101**
+### **3) AWS Amplify React 101**
 
 Creating a React App hosted on Amplify that takes advantage of the seamless integration with Material UI to quickly build UI components. The workshop covers creation of components like tables, buttons etc. as well as style modules to manipulate the look of the UI features.
 
-<a href="https://bit.ly/3w09T7a">
+<a href="https://github.com/teddyaryono/aws-amplify-react-101/blob/main/README.md">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/AZMUBLQ" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
-### **8) Run Chaos Engineering experiments on Amazon Elastic Container Service with AWS Fault Injection Simulator**
+### **4) Run Chaos Engineering experiments on Amazon Elastic Container Service with AWS Fault Injection Simulator**
 
 In this lab we will run chaos engineering experiments by injecting faults into Amazon ECS. We will observe how these experiments helps us to observe the resiliency of the application.
 
-<a href="https://bit.ly/397znGE">
+<a href="https://github.com/teddyaryono/aws-anz-devlabs-ecs-fis/blob/main/README.md">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/EMFOX59" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
-### **10) Quickly accelerate application performance using Amazon ElastiCache for Redis with AWS CDK**
+### **5) Quickly accelerate application performance using Amazon ElastiCache for Redis with AWS CDK**
 
 The lab showcases Amazon Elasticache through a demo App that can be deployed using CDK.
 
-<a href="https://bit.ly/3sqPQMZ">
+<a href="https://github.com/teddyaryono/amazon-elasticache-demo-using-aws-cdk/blob/main/README.md">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/V0R0E0X" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
-### **11) Build a serverless application using AWS CDK for .NET**
+### **6) Build a serverless application using AWS CDK for .NET**
 
 Learn how to become a super efficient user of the aws cli
 
-<a href="https://bit.ly/3M5IgiE">
+<a href="https://github.com/teddyaryono/serverless-app-demo-using-aws-cdk-dotnet/blob/main/README.md">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/Q9O3WQU" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 ## Thanks for completing a lab, hope you had fun!
 

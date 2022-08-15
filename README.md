@@ -2,7 +2,7 @@
 
 This is a set of developer oriented labs built for DevOps Talk and Conference Sydney 2022 where AWS participates in. Running these labs in your own AWS accounts will incur charges for the resources provisioned for the labs.
 
-Each lab takes approximately 30-45 minutes.
+Each lab takes approximately 45-60 minutes.
 
 <img src="./media/DevLabsLogoSmall.png" width="45%">
 

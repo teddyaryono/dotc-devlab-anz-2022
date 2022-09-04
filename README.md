@@ -66,4 +66,4 @@ Learn how to become a super efficient user of the aws cli
 
 We really appreciate your feedback and would love to hear about what you loved and what we can improve.
 
-#### Please give us feedback so we can improve these labs.
+#### Please [give us feedback](https://eventbox.dev/survey/04OSSY7) so we can improve these labs.

@@ -31,7 +31,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/ULTHJI6" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/04OSSY7" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
@@ -45,7 +45,7 @@ Creating a React App hosted on Amplify that takes advantage of the seamless inte
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/4OAM19Y" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href=https://eventbox.dev/survey/04OSSY7" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
@@ -59,7 +59,7 @@ Learn how to become a super efficient user of the aws cli
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/C5027QE" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/04OSSY7" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 ## Thanks for completing a lab, hope you had fun!
 

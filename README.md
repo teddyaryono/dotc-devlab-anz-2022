@@ -45,7 +45,7 @@ Creating a React App hosted on Amplify that takes advantage of the seamless inte
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href=https://eventbox.dev/survey/04OSSY7" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/04OSSY7" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 
